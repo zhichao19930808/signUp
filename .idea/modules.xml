@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Glory.iml" filepath="$PROJECT_DIR$/.idea/modules/Glory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Glory_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Glory_main.iml" group="Glory" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Glory_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Glory_test.iml" group="Glory" />
+    </modules>
+  </component>
+</project>
